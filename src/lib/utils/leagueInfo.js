@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Falk's alwasys the bridesmaid, never the bride.</p>
+  <p>Smhave vs Cole in the grand matchup of the year. </p>
 `;
 
 /*   STEP 3   */
